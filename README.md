@@ -121,7 +121,7 @@ The final DataFrame is shown below, Figure 1.2
 
 * Predictions are made on the K clusters of the cryptocurrencies’ data
 
-![Elbow_curve](./Images/elbow%20curve.png)
+![Elbow_curve](./)
  
 <sub> Figure (1.3) Elbow curve
 
@@ -140,51 +140,52 @@ The final DataFrame is shown below, Figure 1.2
  
 ### D4: Visualizing Cryptocurrencies Results
 
-The clusters are plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
+* The clusters are plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
+
+![3D_scatter](./Images/3D-Scatter%20.png)
+ 
+<sub> Figure (1.3) 3D Scatter pplot
+
+<br/>
 
 * A table with tradable cryptocurrencies is created using the hvplot.table() function
 
+![hvplot_table](./Images/hvplot.table.png)
+ 
+<sub> Figure (1.3) hvplot table
+
+<br/>
+
 * The total number of tradable cryptocurrencies is printed
+
+![total_number](./Images/total%20number.png)
+ 
+<sub> Figure (1.3) Total number of tradable cryptocurrencies
+
+<br/>
 
 * A DataFrame is created that contains the clustered_df DataFrame index, the scaled data, and the CoinName and Class columns
 
-* A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point
-
-The final DataFrame is shown below, Figure 1.4
-
- #### An accuracy score for the model is calculated:
-
-![hvplot_table](./Images/hvplot.table.png)
+![total_number](./Images/plot_df.png)
  
-<sub> Figure (1.4) hvplot table
+<sub> Figure (1.3) DataFrame that has the scaled data with the clustered_df DataFrame index
 
 <br/>
+
+* A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point
+
+![hvplot_scatter_plot](./Images/hvplot.scatter.png)
+ 
+<sub> Figure (1.3) hvplot scatter plot
+
+<br/>
+
 
 
 ## Summary
 
 
 
-
-#### The F1 values for our models:
-
-*
-
-*
-
-*
-
-
- 
-To summarize our results, we'll focus 
- 
-*
-
-*
-
-In general the ....
- 
-For future evaluations we may want to ....
 
 
 ## References
