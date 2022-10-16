@@ -194,5 +194,7 @@ The final DataFrame is shown below, Figure 1.2
 
 [scikit-learn](https://scikit-learn.org/stable/)
  
-[imbalanced-learn](https://imbalanced-learn.org/stable/)
+[K-Means Elbow](https://predictivehacks.com/k-means-elbow-method-code-for-python/)
+
+[matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.savefig.html)
 
