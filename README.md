@@ -127,9 +127,7 @@ The final DataFrame is shown below, Figure 1.2
 
 <br/>
 
-* A new DataFrame is created with the same index as the crypto_df DataFrame and has the following columns: Algorithm, ProofType, TotalCoinsMined, 
-
-* TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class
+* A new DataFrame is created with the same index as the crypto_df DataFrame and has the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class.
 
 ![clustered_df](./Images/clustered_df.png)
  
