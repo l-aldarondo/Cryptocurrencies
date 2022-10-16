@@ -109,7 +109,7 @@ The final DataFrame is shown below, Figure 1.2
 
 ### D3: Clustering Cryptocurrencies Using K-means
 
-* The K-means algorithm is used to cluster the cryptocurrencies using the PCA data, where the following steps have been completed:
+The K-means algorithm is used to cluster the cryptocurrencies using the PCA data, where the following steps have been completed:
 
 * An elbow curve is created using hvPlot to find the best value for K
 
