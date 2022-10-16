@@ -121,9 +121,9 @@ The final DataFrame is shown below, Figure 1.2
 
 * Predictions are made on the K clusters of the cryptocurrencies’ data
 
-![Elbow_curve](./)
+![K_Means_algorithm](./Images/K-means%20algorithm.png)
  
-<sub> Figure (1.3) Elbow curve
+<sub> Figure (1.3) K-Means Algorithm
 
 <br/>
 
