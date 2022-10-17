@@ -182,6 +182,13 @@ The K-means algorithm is used to cluster the cryptocurrencies using the PCA data
 
 ## Summary
 
+On this project, we worked primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. And  build on this by speeding up the process using principal component analysis (PCA), which employs many different features to reduce the dimensions of the DataFrame. 
+ 
+Then using the K-means algorithm, we created an elbow curve using hvPlot to find the best value for K. Then, runned the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
+ 
+Finally we created  scatter plots with Plotly Express and hvplot, to visualize the distinct groups that correspond to the three principal components. Then created a table with all the currently tradable cryptocurrencies using the hvplot.table() function. 
+ 
+The ultimate goal of this data visualizations is to present a story that would be interactive and ebay understanding to the stakeholders but the correct information for the decision making. 
 
 
 
