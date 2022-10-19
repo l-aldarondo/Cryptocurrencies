@@ -188,9 +188,7 @@ Then using the K-means algorithm, we created an elbow curve using hvPlot to find
  
 Finally we created  scatter plots with Plotly Express and hvplot, to visualize the distinct groups that correspond to the three principal components. Then created a table with all the currently tradable cryptocurrencies using the hvplot.table() function. 
  
-The ultimate goal for this data visualizations is to present to the stakeholders a story that would be interactive, easy to understanding and that has the correct information for the decision making process. 
-
-
+The ultimate goal for this visualizations is to present the data in a story that would be interactive, easy to understanding and that provide the correct information to help the stakeholders in the decision making process. 
 
 
 ## References
