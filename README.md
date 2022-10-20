@@ -148,7 +148,7 @@ The K-means algorithm is used to cluster the cryptocurrencies using the PCA data
 
 ![3D_scatter](./Images/3D-Scatter%20on%20hover.png)
  
-<sub> Figure (1.3) 3D Scatter plot on CoinName and Algorithm on hove
+<sub> Figure (1.3) 3D Scatter plot with CoinName and Algorithm on hove
 
 <br/>
 
