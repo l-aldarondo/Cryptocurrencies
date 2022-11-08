@@ -5,8 +5,6 @@ Using Unsupervised Machine Learning to Discover Unknown Patterns
 
 <sub>Image source: Getty Images.
 
-<br/>
-
 ## Background
 
 ### Overview of Analysis
