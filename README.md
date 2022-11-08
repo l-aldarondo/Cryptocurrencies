@@ -3,6 +3,8 @@ Using Unsupervised Machine Learning to Discover Unknown Patterns
 
 ![Crypto_Currency](./Images/crypto_currency.png)
 
+<sub>Image source: Getty Images.
+
 <br/>
 
 ## Background
