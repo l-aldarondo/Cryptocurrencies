@@ -1,6 +1,10 @@
 # Cryptocurrencies
 Using Unsupervised Machine Learning to Discover Unknown Patterns
 
+![Crypto_Currency](./Images/crypto_currency.png)
+
+<br/>
+
 ## Background
 
 ### Overview of Analysis
